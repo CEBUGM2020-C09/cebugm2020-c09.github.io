@@ -1,7 +1,9 @@
 #konten2 {
 	margin-top: 4.8%;
 	background-color: #342b38;
-	color: white
+	color: white;
+	height: 100%;
+	animation: pulse 5s infinite;
 }
 
 .konten2h1 {
@@ -16,6 +18,14 @@
 	word-spacing: 5px;
 }
 
+@keyframes pulse {
+  0% {
+    background-color: #092532;
+  }
+  100% {
+    background-color: #c70039;
+  }
+}
 
 @media all and (max-width: 670px) {
 	#konten2 {
