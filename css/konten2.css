@@ -27,6 +27,18 @@
   }
 }
 
+@media all and (max-width: 1000px) {
+	#konten2 {
+		margin-top: 13.2%;
+	}
+}
+
+@media all and (max-width: 640px) {
+	#konten2 {
+		margin-top: 15%;
+	}
+}
+
 @media all and (max-width: 670px) {
 	#konten2 {
 		margin-top: 13.2%;
