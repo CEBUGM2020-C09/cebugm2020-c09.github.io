@@ -4,12 +4,7 @@ header{
     height:65px;
     position:fixed;
     top:0;
-    z-index: 10;
     font-family:sans-serif;
-}
-.header-container{
-    /*padding:0 auto;*/
-    margin:0 auto;
 }
 .header-left{
     float:left;
@@ -29,7 +24,7 @@ header{
 .header-list li{
     float:left;
     list-style:none;
-    padding-top:10px;
+    padding-top:25px;
     padding-left:15px;
     padding-right:15px;
 }
