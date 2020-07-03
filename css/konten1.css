@@ -1,0 +1,71 @@
+* {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+    padding: 0 15px;
+    margin: 0 auto;
+  }
+
+.top-wrapper {
+    padding: 140px 0 90px ;
+    background-image: url('../img/Banner.png');
+    background-size: cover;
+    text-align: center;
+    color: white;
+    width: 100%;
+}
+
+.btn-play {
+    margin-bottom: 50px;
+}
+
+.fas {
+    margin-right: 10px;
+    font-size: 25px;
+    color: rgb(3, 128, 3);
+}
+
+.fab {
+    margin-right: 10px;
+}
+
+.play  {
+    background-color: rgb(254, 255, 255);
+    padding: 10px 40px;padding: 10px 40px;
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.top-wrapper h2 {
+    font-size: 30px;
+}
+
+.top-wrapper h1 {
+    font-size: 80px;
+}
+
+.btn-wrapper {
+    margin: 20px 0;
+}
+
+.btn {
+    display: inline-block;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+
+.google {
+    background-color: rgb(138, 6, 6);
+}
+
+.facebook {
+    background-color: rgb(27, 10, 122);
+}
